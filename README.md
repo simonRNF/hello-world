@@ -1,2 +1,2 @@
-Ressources :
-Travaux-pratiques/Web design/01 - Hello world/La Licorne.txt
+#Licorne
+Exercice sur la licorne pour le cours de WebDesign en Licence Pro Métiers du Numérique.
